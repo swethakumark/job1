@@ -1,0 +1,17 @@
+body{
+     background-image: url('https://img.freepik.com/premium-photo/minimalist-office-interior-design-with-pink-chair-desk_840989-6116.jpg'); 
+     background-repeat: no-repeat;
+     background-size:cover;
+}
+     
+    
+
+.img {
+     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9qcv40_RAt8q1BQ6WDq6JaLnxrKRmhCz3A&s'); /* Adjust this path */
+     background-size:cover; /* Cover the entire container */
+     background-position: center; /* Center the image */
+     min-height: 110vh; 
+     display: flex; /* Optional: use flexbox for layout */
+     flex-direction: column; /* Optional: stack children vertically */
+
+   }
